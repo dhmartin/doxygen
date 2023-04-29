@@ -601,6 +601,7 @@ var hierarchy =
     [ "DotWorkerThread", "d5/d99/class_dot_worker_thread.html", null ],
     [ "Doxygen", "de/d6a/class_doxygen.html", null ],
     [ "DualDirIterator< C, I >", "dd/d23/class_dual_dir_iterator.html", null ],
+    [ "ScopedTypeVariant::DummyDef", "d5/dc1/struct_scoped_type_variant_1_1_dummy_def.html", null ],
     [ "EclipseHelp", "db/dd3/class_eclipse_help.html", null ],
     [ "DotGroupCollaboration::Edge", "d8/d48/struct_dot_group_collaboration_1_1_edge.html", null ],
     [ "EdgeInfo", "df/d44/class_edge_info.html", null ],
@@ -783,7 +784,6 @@ var hierarchy =
     [ "ClassDefImpl::IMPL", "d6/d4a/class_class_def_impl_1_1_i_m_p_l.html", null ],
     [ "DefinitionImpl::IMPL", "dd/d50/class_definition_impl_1_1_i_m_p_l.html", null ],
     [ "details::Impl< T, Ts >", "de/d05/structdetails_1_1_impl.html", null ],
-    [ "MemberDefImpl::IMPL", "d0/da8/class_member_def_impl_1_1_i_m_p_l.html", null ],
     [ "details::Impl< T >", "dd/db2/structdetails_1_1_impl_3_01_t_01_4.html", null ],
     [ "IndexIntf::incContentsDepth< T >", "d3/dfc/struct_index_intf_1_1inc_contents_depth.html", null ],
     [ "TemplateEngine::Private::IncludeEntry", "de/d8d/class_template_engine_1_1_private_1_1_include_entry.html", null ],
@@ -1475,19 +1475,19 @@ var hierarchy =
             ] ],
             [ "TranslatorFrench", "da/d1a/class_translator_french.html", null ]
           ] ],
+          [ "TranslatorBrazilian", "d2/d4c/class_translator_brazilian.html", null ],
           [ "TranslatorCzech", "dd/d8a/class_translator_czech.html", null ],
+          [ "TranslatorGreek", "df/d75/class_translator_greek.html", null ],
+          [ "TranslatorPortuguese", "dc/df2/class_translator_portuguese.html", null ],
+          [ "TranslatorSpanish", "dc/d44/class_translator_spanish.html", null ],
           [ "TranslatorSwedish", "d5/d5c/class_translator_swedish.html", null ]
         ] ]
       ] ],
-      [ "TranslatorBrazilian", "d2/d4c/class_translator_brazilian.html", null ],
       [ "TranslatorDutch", "d9/d1b/class_translator_dutch.html", null ],
       [ "TranslatorEnglish", "d6/d78/class_translator_english.html", [
         [ "TranslatorJapaneseEn", "d0/d16/class_translator_japanese_en.html", null ],
         [ "TranslatorKoreanEn", "d0/d3a/class_translator_korean_en.html", null ]
-      ] ],
-      [ "TranslatorGreek", "df/d75/class_translator_greek.html", null ],
-      [ "TranslatorPortuguese", "dc/df2/class_translator_portuguese.html", null ],
-      [ "TranslatorSpanish", "dc/d44/class_translator_spanish.html", null ]
+      ] ]
     ] ],
     [ "TemplateNodeTree::TreeContext", "de/d99/struct_template_node_tree_1_1_tree_context.html", null ],
     [ "TreeDiagram", "d4/dc4/class_tree_diagram.html", null ],
